@@ -11,7 +11,7 @@ Java Software Developer (Fresher) with strong fundamentals in Core Java and hand
 - Git, GitHub, Maven
 
 ## 📂 Projects
-- Employee Management System – Spring Boot CRUD REST API
+- - Hospital Management System – Spring Boot CRUD REST API
 - Java Developer Portfolio
 
 ## 🎯 Career Objective
